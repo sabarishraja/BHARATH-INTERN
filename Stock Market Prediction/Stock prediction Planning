@@ -1,0 +1,9 @@
+## STOCK PRICE PREDICTION
+I am importing the contemporary data of stocks from the yfinance library.
+The stock data I am collecting are from APPLE, GOOGLE, MICROSOFT AND AMAZON
+The stock data starts from last year to the current time.
+I then plot graphs to represent the closing price of all the companies for each month.
+Likewise, I also plot graph for volume of sales and the moving average of various stocks for 10 days,
+20 days and 50 days respective to the companies.
+I also plot a graph for the average daily return for each company.
+
